@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/WARDEV-WHITE.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -84,12 +84,25 @@
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "Copyright 2024\n",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
-    }
+    },
+    "defaultSocialImage": "/images/WARDEV-WHITE.png",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:description",
+            "content": "Web ini diperuntukan warga developer"
+        }
+    ]
 }
