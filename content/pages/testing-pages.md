@@ -52,7 +52,7 @@ sections:
     colors: colors-f
     variant: variant-d
     elementId: ''
-    recentCount: 2
+    recentCount: 3
     showDate: true
     showAuthor: false
     showExcerpt: true
