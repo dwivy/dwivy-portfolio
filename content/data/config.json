@@ -97,5 +97,12 @@
             }
         }
     },
-    "defaultSocialImage": "/images/WARDEV-WHITE.png"
+    "defaultSocialImage": "/images/WARDEV-WHITE.png",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:title",
+            "content": ""
+        }
+    ]
 }
