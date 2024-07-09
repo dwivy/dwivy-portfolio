@@ -28,7 +28,7 @@
                 "label": "YouTube",
                 "altText": "",
                 "url": "http://www.youtube.com/",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
