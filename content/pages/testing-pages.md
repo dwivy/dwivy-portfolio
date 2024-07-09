@@ -39,7 +39,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: RecentPostsSection
-    subtitle: Posts
+    subtitle: ''
     actions:
       - type: Link
         label: See all posts
