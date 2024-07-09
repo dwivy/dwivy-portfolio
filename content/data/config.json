@@ -4,8 +4,8 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Personal",
+        "isSticky": true,
+        "title": "WarDev",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -22,6 +22,16 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
+            },
+            {
+                "type": "Link",
+                "label": "YouTube",
+                "altText": "",
+                "url": "http://www.youtube.com/",
+                "showIcon": true,
+                "icon": "youtube",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
@@ -44,6 +54,13 @@
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/WARDEV-WHITE.png",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": ""
         }
     },
     "footer": {
