@@ -43,7 +43,7 @@ sections:
     actions:
       - type: Link
         label: See all
-        altText: See all posts
+        altText: See all
         url: /blog
         showIcon: false
         icon: arrowRight
