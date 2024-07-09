@@ -7,7 +7,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/ezgif.com-crop.webp
+  url: /images/gallery-3.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
