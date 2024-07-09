@@ -120,5 +120,6 @@
             "property": "og:description",
             "content": "Web ini diperuntukan warga developer"
         }
-    ]
+    ],
+    "favicon": "/images/WARDEV-WHITE.png"
 }
