@@ -4,9 +4,12 @@ title: Testing Pages
 sections:
   - type: CtaSection
     title: Let's do this
-    text: >-
+    text: >
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
+
+
+      ![](/images/ezgif.com-crop.webp)
     actions:
       - type: Button
         label: Try it now
