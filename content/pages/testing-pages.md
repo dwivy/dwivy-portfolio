@@ -74,6 +74,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Latest News
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
